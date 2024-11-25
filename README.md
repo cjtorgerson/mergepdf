@@ -1,6 +1,11 @@
 # mergepdf
 A simple command line pdf merging tool.
 
+### How to Install
+See the latest release notes.
+
+### How to use
+
 usage: merge.py [-h] -f FILES [FILES ...] -o OUTPUT
 
 Merge multiple PDFs into a single PDF file.
